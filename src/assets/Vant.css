@@ -1,0 +1,111 @@
+.van-popup__close-icon--bottom-right {
+  bottom: 0 !important;
+  left: 46% !important;
+}
+
+.lingss .van-popup {
+  background-color: #f8f8f8;
+}
+
+/* .lingss .van-popup__close-icon--top-right {
+  top: 13px;
+} */
+
+.van-overlay {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.huodong2 .van-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.huodong2 .van-popup {
+  background-color: rgba(0, 0, 0, 0);
+  z-index: 99999999999999 !important;
+}
+
+.huodong3 .van-popup {
+  width: 60%;
+}
+
+.tais .van-popup__close-icon--top-right {
+  top: 14vh;
+}
+
+.huakuai .van-slider__button {
+  display: none;
+}
+
+.huakuai .van-slider {
+  height: 100%;
+  width: 100%;
+}
+
+.van-progress {
+  height: 100%;
+  width: 100%;
+}
+
+.van-progress__pivot {
+  display: none;
+}
+
+.haoyou .huakuai .van-slider__button {
+  display: none;
+}
+
+.haoyou .huakuai .van-slider {
+  height: 100%;
+  width: 100%;
+}
+
+.haoyou .van-popup__close-icon--bottom-right {
+  bottom: 0 !important;
+  left: 49% !important;
+}
+
+.haoyou .van-overlay {
+  position: absolute !important;
+}
+.haoyou .van-popup {
+  position: absolute !important;
+}
+/* .haoyou .van-popup--center {
+  top: 40%;
+} */
+.haoyou .van-cell {
+  padding: 0;
+  background: none;
+  width: 90%;
+  line-height: 0.4rem;
+  box-sizing: border-box;
+  font-size: 0.24rem;
+  color: #238fe7;
+  text-align: left;
+}
+
+.haoyou .van-field__control {
+  font-size: 0.24rem;
+  color: #238fe7;
+  line-height: 0.4rem;
+}
+
+.haoyou .van-field__body input {
+  font-size: 0.24rem;
+  color: #53a9ed;
+  line-height: 0.4rem;
+}
+
+.haoyou .van-field__body input::-webkit-input-placeholder {
+  font-size: 0.24rem;
+  color: #53a9ed;
+  line-height: 0.4rem;
+}
+
+.van-dialog {
+  z-index: 99999999999999999 !important;
+}
+
+.van-toast {
+  z-index: 99999999999999999 !important;
+}
